@@ -1,0 +1,35 @@
+.box{
+    
+    width: 100%;
+    margin-bottom: 100px;
+  }
+  .gradient
+  {
+    background: linear-gradient(300deg, #DAC0A3, #102C57, #EADBC8);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    width: 100%;
+  }
+
+  .profile
+  {
+    width: 200px;
+    border-radius: 50%;
+    padding: auto;
+    margin-top: -30px;
+    margin-bottom: 10%;
+    border: 5px solid black;
+  }
+
+.features
+{
+  background-color: #f1f0ef;
+}
+.qualifications
+{
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Poppins', sans-serif;
+font-size: x-large;
+font: bolder;
+color: black;
+}
